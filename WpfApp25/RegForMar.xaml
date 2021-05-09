@@ -1,0 +1,325 @@
+﻿<Window
+    x:Class="WpfApp25.RegForMar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:WpfApp25"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    Title="RegForMar"
+    Width="490"
+    Height="540"
+    AllowsTransparency="True"
+    Background="Transparent"
+    MouseDown="Window_MouseDown"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="11*" />
+                <RowDefinition Height="26*" />
+                <RowDefinition Height="6*" />
+            </Grid.RowDefinitions>
+            <Border
+                Grid.RowSpan="3"
+                Margin="0,0,-0.4,0"
+                CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Offset="0.0" Color="#7be9f6" />
+                        <GradientStop Offset="1" Color="#f083da" />
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+            <TextBlock
+                Width="7"
+                Height="18"
+                Margin="0,5,9.6,0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Cursor="Hand"
+                FontFamily="helvetica"
+                FontSize="15"
+                Foreground="Black"
+                MouseDown="TextBlock_MouseDown">
+                x
+            </TextBlock>
+            <Button
+                x:Name="BackButton"
+                Width="71"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="Transparent"
+                BorderThickness="0"
+                Click="BackButton_Click"
+                Foreground="Black">
+                Назад
+            </Button>
+            <StackPanel Margin="0,10,-0.4,0">
+                <Image Width="170" Source="Photo/MHM.png" />
+            </StackPanel>
+            <Grid
+                Grid.Row="1"
+                Grid.RowSpan="2"
+                Margin="0,4.8,-0.4,31">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <StackPanel>
+                    <TextBlock
+                        x:Name="Text"
+                        Margin="15,10,15,5"
+                        FontFamily="helvetica"
+                        FontSize="15"
+                        FontWeight="Light"
+                        Foreground="Black"
+                        TextWrapping="Wrap">
+                        Пожалуйста заполните всё информацию, чтобы зарегистрироваться на марафон проводимом в Минске. Республика Беларусь
+                    </TextBlock>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1.1*" />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="6,0,0,0">
+                            <TextBlock
+                                x:Name="Type"
+                                Margin="0,10,0,0"
+                                HorizontalAlignment="Center"
+                                FontFamily="helvetica"
+                                FontSize="22"
+                                FontWeight="Light"
+                                Foreground="Black">
+                                Вид марафона
+                            </TextBlock>
+                            <RadioButton
+                                x:Name="FullMar"
+                                Margin="0,20,10,10"
+                                HorizontalAlignment="Center"
+                                Checked="FullMar_Checked"
+                                Content="42 km Полный марафон (100BYN)"
+                                FontFamily="helvetica"
+                                FontSize="15"
+                                FontWeight="Light"
+                                Foreground="Black"
+                                Unchecked="FullMar_Unchecked" />
+                            <RadioButton
+                                x:Name="HalfMar"
+                                Margin="0,20,30,10"
+                                HorizontalAlignment="Center"
+                                Checked="HalfMar_Checked"
+                                Content="21 km Полумарафон (50BYN)"
+                                FontFamily="helvetica"
+                                FontSize="16"
+                                FontWeight="Light"
+                                Foreground="Black"
+                                Unchecked="HalfMar_Unchecked" />
+                            <RadioButton
+                                x:Name="SmallMar"
+                                Margin="0,20,21,0"
+                                HorizontalAlignment="Center"
+                                Checked="SmallMar_Checked"
+                                Content="5 km Малая марафон (0BYN)"
+                                FontFamily="helvetica"
+                                FontSize="16"
+                                FontWeight="Light"
+                                Foreground="Black"
+                                Unchecked="SmallMar_Unchecked" />
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock
+                                x:Name="Kit"
+                                Margin="0,10,0,0"
+                                HorizontalAlignment="Left"
+                                FontFamily="helvetica"
+                                FontSize="22"
+                                FontWeight="Light"
+                                Foreground="Black">
+                                Варианты комплектов
+                            </TextBlock>
+                            <Grid Margin="0,10,0,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition Width="12*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                </Grid.RowDefinitions>
+                                <RadioButton
+                                    x:Name="VersionA"
+                                    MinHeight="60"
+                                    Margin="0,-10,0,0"
+                                    HorizontalAlignment="Center"
+                                    VerticalContentAlignment="Center"
+                                    FontFamily="helvetica"
+                                    FontSize="15"
+                                    FontWeight="Light"
+                                    Foreground="White"
+                                    Style="{StaticResource MaterialDesignRadioButton}" />
+                                <Expander
+                                    x:Name="A"
+                                    Grid.Column="1"
+                                    HorizontalContentAlignment="Center"
+                                    VerticalContentAlignment="Center"
+                                    Background="Transparent"
+                                    FontFamily="helvetica"
+                                    FontSize="10"
+                                    FontWeight="Light"
+                                    Foreground="Black"
+                                    Header="Вариант А (0)"
+                                    Style="{StaticResource MaterialDesignExpander}">
+                                    <TextBlock x:Name="V1" Margin="0,-9,0,0">Номер бегуна RFID браслет</TextBlock>
+                                </Expander>
+                                <RadioButton
+                                    x:Name="VersionB"
+                                    Grid.Row="1"
+                                    MinHeight="60"
+                                    Margin="0,-10,0,0"
+                                    HorizontalAlignment="Center"
+                                    Checked="VersionB_Checked"
+                                    FontFamily="helvetica"
+                                    FontSize="15"
+                                    FontWeight="Light"
+                                    Foreground="White"
+                                    Style="{StaticResource MaterialDesignRadioButton}"
+                                    Unchecked="VersionB_Unchecked" />
+                                <Expander
+                                    x:Name="B"
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    HorizontalContentAlignment="Center"
+                                    VerticalContentAlignment="Center"
+                                    Background="Transparent"
+                                    FontFamily="helvetica"
+                                    FontSize="10"
+                                    FontWeight="Light"
+                                    Foreground="Black"
+                                    Header="Вариант Б (25BYN)"
+                                    Style="{StaticResource MaterialDesignExpander}">
+                                    <TextBlock x:Name="V2" Margin="0,-9,0,0">Вариант А + бейсболка + бутылка воды</TextBlock>
+                                </Expander>
+                                <RadioButton
+                                    x:Name="VersionC"
+                                    Grid.Row="2"
+                                    MinHeight="60"
+                                    Margin="0,-10,0,0"
+                                    HorizontalAlignment="Center"
+                                    Checked="VersionC_Checked"
+                                    FontFamily="helvetica"
+                                    FontSize="15"
+                                    FontWeight="Light"
+                                    Foreground="Black"
+                                    Style="{StaticResource MaterialDesignRadioButton}"
+                                    Unchecked="VersionC_Unchecked" />
+                                <Expander
+                                    x:Name="C"
+                                    Grid.Row="2"
+                                    Grid.Column="2"
+                                    HorizontalContentAlignment="Center"
+                                    VerticalContentAlignment="Center"
+                                    Background="Transparent"
+                                    FontFamily="helvetica"
+                                    FontSize="10"
+                                    FontWeight="Light"
+                                    Foreground="Black"
+                                    Header="Вариант С (40BYN)"
+                                    Style="{StaticResource MaterialDesignExpander}">
+                                    <TextBlock x:Name="V3" Margin="0,-9,0,0">Вариант Б + футболка + сувенирный буклет</TextBlock>
+                                </Expander>
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid Margin="0,10,0,0.4">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="0.7*" />
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock
+                                x:Name="RegNum"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Bottom"
+                                FontFamily="helvetica"
+                                FontSize="20"
+                                FontWeight="Bold"
+                                Foreground="White">
+                                Регистрационный взнос
+                            </TextBlock>
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <RadioButton
+                                    x:Name="PriceBYN"
+                                    Grid.Row="1"
+                                    IsChecked="True"
+                                    Margin="0,10,0,10"
+                                    HorizontalAlignment="Center"
+                                    FontFamily="helvetica"
+                                    FontSize="35"
+                                    FontWeight="Bold"
+                                    Foreground="White">
+                                    0 BYN
+                                </RadioButton>
+                                <RadioButton
+                                    x:Name="PriceD"
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Margin="0,10,0,10"
+                                    HorizontalAlignment="Center"
+                                    FontFamily="helvetica"
+                                    FontSize="35"
+                                    FontWeight="Bold"
+                                    Foreground="White">
+                                    $0
+                                </RadioButton>
+                                <RadioButton
+                                    x:Name="PriceE"
+                                    Grid.Row="1"
+                                    Grid.Column="2"
+                                    Margin="0,10,0,10"
+                                    HorizontalAlignment="Center"
+                                    FontFamily="helvetica"
+                                    FontSize="35"
+                                    FontWeight="Bold"
+                                    Foreground="White">
+                                    €0
+                                </RadioButton>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </StackPanel>
+
+            </Grid>
+            <Grid Grid.Row="2" Margin="0,10,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.3*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button
+                    x:Name="RegButton"
+                    Margin="0,0,20,5"
+                    HorizontalAlignment="Right"
+                    Click="RegButton_Click"
+                    Content="Регистрация" />
+                <Button
+                    x:Name="CancelButton"
+                    Grid.Column="1"
+                    Margin="0,0,0,5"
+                    HorizontalAlignment="Left"
+                    Click="CancelButton_Click"
+                    Content="Отмена" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+

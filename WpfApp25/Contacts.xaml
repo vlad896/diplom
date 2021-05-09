@@ -1,0 +1,151 @@
+﻿<Window
+    x:Class="WpfApp25.Contacts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:WpfApp25"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    Title="Contacts"
+    Width="390"
+    Height="500"
+    AllowsTransparency="True"
+    Background="Transparent"
+    MouseDown="Window_MouseDown"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Grid x:Name="MainGrid">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1.7*" />
+            </Grid.RowDefinitions>
+            <Border
+                x:Name="MainGrid1"
+                Grid.RowSpan="3"
+                Margin="0,0,0,1"
+                CornerRadius="10">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Offset="0.0" Color="#7be9f6" />
+                        <GradientStop Offset="1" Color="#f083da" />
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+            <Button
+                x:Name="BackButton"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="Transparent"
+                BorderThickness="0"
+                Click="Button_Click"
+                Foreground="Black">
+                Назад
+            </Button>
+            <TextBlock
+                Margin="7,5"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Cursor="Hand"
+                FontFamily="helvetica"
+                FontSize="15"
+                Foreground="Black"
+                MouseDown="TextBlock_MouseDown">
+                x
+            </TextBlock>
+            <StackPanel
+                Height="160"
+                Margin="0,13,0,9.4"
+                VerticalAlignment="Center">
+
+                <Image Width="200" Source="Photo/MHM.png" />
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black"
+                    Text="Minsk Half Marathon" />
+
+            </StackPanel>
+            <Grid Grid.Row="1" Margin="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1.1*" />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition Height="1.1*" />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBlock
+                    x:Name="Author"
+                    Grid.Row="0"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black"
+                    TextWrapping="Wrap">
+                    Выполнил работу: Федорович Владислав Александрович
+                </TextBlock>
+
+                <Label
+                    x:Name="Entitlement"
+                    Grid.Row="1"
+                    Margin="-4,8,0,0"
+                    VerticalContentAlignment="Center"
+                    Content="Авторские права: @МГКЭ 2020"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black" />
+                <Label
+                    x:Name="Version"
+                    Grid.Row="2"
+                    Margin="-5,0,0,0"
+                    VerticalContentAlignment="Center"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black">
+                    Версия: V 1.0.0.0
+                </Label>
+                <TextBlock
+                    x:Name="Discipline"
+                    Grid.Row="3"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black"
+                    TextWrapping="Wrap">
+                    Дисциплина: Конструирование программ и языки программирования
+                </TextBlock>
+                <Label
+                    x:Name="Email1"
+                    Grid.Row="4"
+                    Margin="-5,5,0,0"
+                    VerticalContentAlignment="Center"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black">
+                    Email: vlados6675041@gmail.com
+                </Label>
+                <TextBlock
+                    x:Name="Phone"
+                    Grid.Row="5"
+                    FontFamily="helvetica"
+                    FontSize="22"
+                    FontWeight="Light"
+                    Foreground="Black"
+                    TextWrapping="Wrap">
+                    Телефон: +375 (33) 667-50-41
+                </TextBlock>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
+

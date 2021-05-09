@@ -1,0 +1,743 @@
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe.config
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\WpfApp25.pdb
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\MainWindow.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\App.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\MainWindow.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.g.resources
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.exe
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.pdb
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\App.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\button.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\EntityFramework.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\EntityFramework.xml
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.xml
+J:\VS project\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WinWelcom.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WinWelcom.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Register.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Register.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RegForMar.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RegForMar.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Print.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Print.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\BMI.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\BMI.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\BMR.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\BMR.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Remove.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Remove.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Contacts.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Contacts.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\informaboutevent.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\informaboutevent.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Sponsors.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Sponsors.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Run_Admin.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\Run_Admin.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.baml
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.g.cs
+J:\VS project\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП по КПИЯП Федорович Влад 35ТП\PRG\WpfApp25\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Half Marathon\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegForMarAdmin.g.cs
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\obj\Debug\RegForMarAdmin.baml
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Half Marathon — БД\WpfApp25\bin\Debug\Eto.OxyPlot.Wpf.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Eto.OxyPlot.Wpf.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegForMarAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegForMarAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\Пример оформления КП Ваша_фамилия_группа_2020\PRG\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Eto.OxyPlot.Wpf.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegForMarAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegForMarAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\КП_Федорович_БД_35ТП\КУРСОВОЙ БД КОРОПА\КП_Федорович_35ТП_2020\PRG\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Language.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegForMarAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Eto.OxyPlot.Wpf.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegForMarAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\Language.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\WpfApp25.exe.config
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\WpfApp25.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Eto.OxyPlot.Wpf.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MaterialDesignColors.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\System.Data.SQLite.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\System.Data.SQLite.xml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\BMI.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\BMR.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Contacts.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\DELLAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\DescriptionOfActivities.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\informaboutevent.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Language.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\MainWindow.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Print.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegForMar.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegForMarAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Register.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegisterAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Remove.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RemoveAdmin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RunnerMenu.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Run_Admin.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Sponsors.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WinWelcom.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\App.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25_Content.g.cs
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25_MarkupCompile.lref
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\App.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\BMI.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\BMR.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\button.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Contacts.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\DELLAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\DescriptionOfActivities.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\informaboutevent.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Language.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\MainWindow.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Print.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegForMar.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegForMarAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Register.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RegisterAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Remove.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RemoveAdmin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\RunnerMenu.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Run_Admin.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\Sponsors.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WinWelcom.baml
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.g.resources
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.Properties.Resources.resources
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.csproj.CopyComplete
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.exe
+C:\Users\vlad\Desktop\Технологическая практика\PRG\diplom\WpfApp25\obj\Debug\WpfApp25.pdb
